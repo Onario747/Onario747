@@ -5,8 +5,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onario747&show_icons=true&theme=cobalt&locale=en" alt="onario747" /></p>
 
-<h3 align="bottom">Languages and Tools:</h3>
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTE3dXkybDdyODhwOTZmZWR5ZDRtc291aXExeDM5MzBmMTlvNzBzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif"  />
+<h3 align="bottom">Languages and Tools:</h3>
 
 ###
 
