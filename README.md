@@ -41,7 +41,7 @@
 
 - 🔭 I’m currently working on [Media-Verse](https://media-verse-747.vercel.app)
 
-- 🌱 I’m currently learning **Baas**
+- 🌱 I’m currently learning **Appwrite**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
