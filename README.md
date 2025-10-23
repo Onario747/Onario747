@@ -39,18 +39,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
 
-- 🔭 I’m currently working on [Media-Verse](https://media-verse-747.vercel.app)
-
-- 🌱 I’m currently learning **Appwrite**
-
-- 👯 I’m looking to collaborate on **Frontend Projects**
-
-- 👨‍💻 All of my projects are available at [https://onarigeorge.vercel.app](https://onarigeorge.vercel.app)
-
-- 📫 How to reach me **onarigeorge013@gmail.com**
-
-- ⚡ Fun fact **I love coding.**
-
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=onario747&theme=dark" alt="onario747" /></p>
 
 
